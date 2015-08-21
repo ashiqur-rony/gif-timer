@@ -1,0 +1,26 @@
+{
+  "name": "goodkoding/gif-timer",
+  "description": "Create a GIF image using PHP to display time difference",
+  "tags": ["gif", "php", "timer"],
+  "version": "1.0",
+  "license": "MIT",
+  "authors":[
+    {
+      "name": "Ashiqur Rahman",
+      "homepage": "http://ghumkumar.com",
+      "role": "Developer"
+    }
+  ],
+  "repositories": [
+    {
+      "url": "https://github.com/Sybio/GifCreator.git",
+      "type": "git"
+    }
+  ],
+  "require": {
+    "sybio/gif-creator": "*"
+  },
+  "autoload": {
+    "psr-0": { "GifTimer": "src" }
+  }
+}
