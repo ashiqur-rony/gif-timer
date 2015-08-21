@@ -21,6 +21,9 @@ Or write the file into file system.
 ```php
 file_put_contents('/timer.gif', $image);
 ```
+## Demo
+[ghumkumar.com](http://ghumkumar.com/works/gif-timer/index.php)
+
 ## Parameters
 * **$end_time**
   * int time in second defines the destination time.
