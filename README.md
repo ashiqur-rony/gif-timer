@@ -22,7 +22,7 @@ Or write the file into file system.
 file_put_contents('/timer.gif', $image);
 ```
 ## Demo
-[ghumkumar.com](http://ghumkumar.com/works/gif-timer/index.php)
+[ashiqur.com](http://ashiqur.com/works/gif-timer/index.php)
 
 ## Parameters
 * **$end_time**
